@@ -76,7 +76,6 @@ border-style: solid;
     justify-content: center;
 }
 
-
 p.Hero {
     background:#b3b1b1;
     border-radius: 15px;
@@ -109,7 +108,7 @@ max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 250px;
     color: white;
     width: 100%;
